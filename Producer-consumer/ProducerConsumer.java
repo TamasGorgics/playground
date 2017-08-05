@@ -1,10 +1,11 @@
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;
+import java.util.concurrent.LinkedBlockingQueue;
 import java.util.stream.IntStream;
 
 public class ProducerConsumer {
 
-	static BlockingQueue sharedQueue = new LinkedBlockingDeque<>();
+	static BlockingQueue sharedQueue = new LinkedBlockingQueue<>();
 	
 	public static void main(String... args) {
 		
