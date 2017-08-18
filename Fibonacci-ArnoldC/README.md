@@ -4,7 +4,7 @@ This file contains a simple program that prints the so called Fibonacci-numbers 
 
 Just for fun!
 
-# How to run?
+## How to run?
 Download ArnoldC.jar
 - eg.: wget http://lhartikk.github.io/ArnoldC.jar
 
