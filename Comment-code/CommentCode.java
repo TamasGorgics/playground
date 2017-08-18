@@ -1,4 +1,3 @@
-package interesting;
 
 public class CommentCode {
 
