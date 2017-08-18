@@ -1,6 +1,6 @@
 # Fibonacci-ArnoldC
 
-This file contains a simple program that prints the so called Fibonacci-numbers (https://en.wikipedia.org/wiki/Fibonacci_number) to the console - implemented in ArnoldC language (http://lhartikk.github.io/ArnoldC/)
+This file contains a simple program that prints the so called Fibonacci-numbers (https://en.wikipedia.org/wiki/Fibonacci_number) to the console recursively - implemented in ArnoldC language (http://lhartikk.github.io/ArnoldC/)
 
 Just for fun!
 
