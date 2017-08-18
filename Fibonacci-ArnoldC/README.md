@@ -7,8 +7,10 @@ Just for fun!
 # How to run?
 Download ArnoldC.jar
 - eg.: wget http://lhartikk.github.io/ArnoldC.jar
+
 Compile (jre needed!):
 - java -jar ArnoldC.jar fibonacci.arnoldc
+
 Run:
 - java fibonacci
 
