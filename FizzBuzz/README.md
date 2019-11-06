@@ -25,3 +25,8 @@ FizzBuzz is a group word game for children to teach division.
   14
   FizzBuzz
   ```
+
+jdk 11 required.
+
+Compile: `javac FizzBuzz.java`
+Run: `java FizzBuzz <number>` e.g. `java FizzBuzz 20`
