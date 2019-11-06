@@ -16,9 +16,7 @@ public class Pyramid {
 
     private static void drawPyramid(final int levels) {
         IntStream.rangeClosed(1, levels).forEach(i -> {
-            System.out.print(" ".repeat(levels - i));
-            System.out.print("* ".repeat(i));
-            System.out.println();
+            System.out.println(" ".repeat(levels - i) + "* ".repeat(i));
         });
     }
 }
