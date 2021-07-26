@@ -1,5 +1,3 @@
-package com.izettle.advance;
-
 import java.util.stream.IntStream;
 
 public class FizzBuzzPrime {
